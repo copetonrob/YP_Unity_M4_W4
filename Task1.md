@@ -12,7 +12,7 @@
 
 ### Часть 1
 
-Зайди на сайт https://github.com/ и нажми зеленую кнопку New, чтобы создать новый репозиторий.
+Зайди на сайт https://github.com/ залогинься в свою учетную запись и нажми зеленую кнопку New, чтобы создать новый репозиторий.
 
 Обсуди с командой, как назвать проект. Заполни поля. Создай репозиторий.
 
@@ -36,7 +36,7 @@
 
 Создай проект в Unity. Обсуди с командой версию проекта, она должна быть установлена у всех участников команды.
 
-<img src="https://github.com/copetonrob/YP_Unity_M4_W4/blob/main/img/project_create.png" width="800"/>
+<img src="https://github.com/copetonrob/YP_Unity_M4_W4/blob/main/img/project_create.png" width="1000"/>
 
 Если у тебя уже есть проект, который будет финальной игрой, перенеси три папки Assets, Packages, Project Settings в папку локального репозитория.
 
@@ -44,7 +44,7 @@
 
 <img src="https://github.com/copetonrob/YP_Unity_M4_W4/blob/main/img/rep_folder.png" width="800"/>
 
-Если у тебя нарушилась архитектура директорий, просто вытащи папки Assets, Packages, Project Settings в корень репозитория, удали старую директорию проекта и добавь в Unity проект как новый.
+Если у тебя нарушилась архитектура директорий, просто вытащи папки Assets, Packages, Project Settings в корень репозитория, удали старую директорию проекта и добавь в Unity Hub проект как новый.
 
 <img src="https://github.com/copetonrob/YP_Unity_M4_W4/blob/main/img/add_project.png" width="600"/>
 
@@ -62,9 +62,9 @@
 
 Вторая часть инструкции для всех остальных участников.
 
-Зайди на сайт гита по ссылке от первого участника команды. Примите приглашение для совместной работы с репозиторием.
+Зайди на страницу репозитория по ссылке от первого участника команды. Прими приглашение для совместной работы с репозиторием.
 
-<img src="https://github.com/copetonrob/YP_Unity_M4_W4/blob/main/img/accept_invite.png" width="400"/>
+<img src="https://github.com/copetonrob/YP_Unity_M4_W4/blob/main/img/accept_invite.png" width="300"/>
 
 Клонируй репозиторий себе локально.
 
